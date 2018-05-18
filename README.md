@@ -1,10 +1,10 @@
 # TravelGeeks
 
-Everyone loves to take a break from their mundane lifestyle and go on tours. They would love to explore new places, experience adventures and add fun and accomplishment to life. As much as people love to travel, they love to share their experiences with the world. Here at ‘Travel Geeks, every user gets a chance to express his/her travel experience with colorful images and descriptive text through blogs. With various social channels such as Facebook and Twitter readily integrated with the website, sharing the blog with the world is just a click away.
+Everyone loves to take a break from their mundane lifestyle and go on tours. They would love to explore new places, experience adventures and add fun and accomplishment to life. As much as people love to travel, they love to share their experiences with the world. Here at "Travel Geeks", every user gets a chance to express his/her travel experience with colorful images and descriptive text through blogs. With various social channels such as Facebook and Twitter readily integrated with the website, sharing the blog with the world is just a click away.
 
 Travelers are keen to read about the kind of experiences that is awaiting them. ‘Travel Geeks’ contains a vast database of blogs that is constantly growing with users sharing their new experiences. Travelers can utilize this vast information to plan and prepare for their trip. 
 
-‘Travel Geeks’ understands your interests and facilitates collaborating with the fellow travelers having similar passion. It also provides a friendly chatbot that is integrated with web and google assistant which provides highly rated destinations based on your interests. 
+"Travel Geeks" understands your interests and facilitates collaborating with the fellow travelers having similar passion. It also provides a friendly chatbot that is integrated with web and google assistant which provides highly rated destinations based on your interests. 
 
 # Features
 
