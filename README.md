@@ -7,7 +7,7 @@ Travelers are keen to read about the kind of experiences that is awaiting them. 
 "Travel Geeks" understands your interests and facilitates collaborating with the fellow travelers having similar passion. It also provides a friendly chatbot that is integrated with web and google assistant which provides highly rated destinations based on your interests. 
 
 # Architecture Diagram
-<img src="https://user-images.githubusercontent.com/32632834/42434905-a5f72cc4-8309-11e8-97f7-3c0858d19e20.png" width="650" height="450">
+<img src="https://user-images.githubusercontent.com/32632834/42434905-a5f72cc4-8309-11e8-97f7-3c0858d19e20.png" width="650" height="475">
 
 # Features
 
